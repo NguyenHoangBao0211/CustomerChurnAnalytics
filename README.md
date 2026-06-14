@@ -1,8 +1,8 @@
 # Customer Survival Analysis and Churn Prediction
-
+</br>
 App: https://churn-prediction-app.herokuapp.com/
 cd "C:\Users\ASUS\Downloads\Customer Churn Prediction and Survival Analysis System"
-
+</br>
 
 Customer attrition, also known as customer churn, customer turnover, or customer defection, is the loss of clients or customers.
 
