@@ -11,7 +11,9 @@ Predictive analytics use churn prediction models that predict customer churn by 
 In this project I aim to perform customer survival analysis and build a model which can predict customer churn. I also aim to build an app which can be used to understand why a specific customer would stop the service and to know his/her expected lifetime value.  
 
 ## Final Customer Churn Prediction App
-<img src=https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/blob/master/app-pic.png>
+<p align="center">
+    <img src="GiaoDien.png" width="900">
+</p>
 
 ## Project Organization
 ```
